@@ -8,7 +8,11 @@ function App() {
   return (
     <div>
       <QuotesBox />
+      <footer className='footer1'> 
+           <p>By Kattia Contreras | Academlo G-25</p>
+      </footer>
     </div>
+  
   )
 }
 
